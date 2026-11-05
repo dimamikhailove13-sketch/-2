@@ -14,6 +14,9 @@
 
 2)Сравнение платного, бесплатного и целевого обучения.
  git switch -c feature/about
+bash
+git add .
+git commit -m "feat: update about line in main"
 
                
 
